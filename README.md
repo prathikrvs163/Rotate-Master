@@ -1,7 +1,7 @@
 # Rotate-Master
 
 ## Overview
-AutoRotateImages is a Python script that automatically detects and corrects the orientation of images using OpenCV. If a landscape image is stored incorrectly as portrait, the script rotates it and moves it to a separate folder.
+Rotate-Master is a Python script that automatically detects and corrects the orientation of images using OpenCV. If a landscape image is stored incorrectly as a portrait, the script rotates it and moves it to a separate folder.
 
 ## Features
 - Scans all images in a folder.
