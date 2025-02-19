@@ -23,9 +23,9 @@ Rotate-Master is a Python script that automatically detects and corrects the ori
   Place images in the pictures folder.
   
    Run the script:
-    ```sh
+   ```sh
     python main.py
-    ```
+   ```
     
   Rotated images will be saved in the rotated_images folder.
     
